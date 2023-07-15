@@ -58,7 +58,9 @@ margin-top:100px;}
 }
  .iconic{
     display: flex;list-style:none;align-items: center;justify-content: space-around;
-    gap:7px;
+    gap:2px;
     padding-top: 40px;padding-bottom: 20px;}
-    .img5{ width: 1200px;
-        height: 400px; background-image: url('image.jpg.png');text-align: center;}
+    .img5{ width: 1300px; padding-top: 200px; pxpadding-left:200px;background-image: url('image.jpg.png');background-position:center;background-size: 90%;background-repeat: no-repeat;
+    height: 400px; text-align: center;
+    
+    }
